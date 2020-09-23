@@ -1,0 +1,13 @@
+Thanks for this optimizations to Carles P.V. Give him all medals! hehehe! :-)
+---------------------------------------------------------------
+
+	-Adjusted min. and max values for X and Y 
+	-Big blur motion scene (x:1-318, y:1-238)
+	-Calc3DRotations simplified
+	-Updated Proyect3D 
+	-Removed border-Image
+	-New DrawLine (Bresenham) with checking points out of array "scene"
+	-Enable optimizations on Compiler options
+
+Results: 5 times faster renderings
+         
